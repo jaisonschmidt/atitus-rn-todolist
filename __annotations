@@ -1,0 +1,6 @@
+- trocar button por touchable
+- falar sobre estado local
+- criar um estado para o input (exibir na tela a renderização)
+- criar um estado para o array de elementos
+- travar o touchable quando o estado do input estiver vazio
+- criar button para remover a task (usar Alert)
