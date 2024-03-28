@@ -1,12 +1,19 @@
 /**
- * TODO
- * 1 - integrar o array com o input (implementar estado)
- * 2 - para cada task, renderizar um button
- * 3 - quando clicar no button da task, pedir confirmação
- * 4 - caso concorde, remover a task do array
- * 5 - implementar o componente SafeAreaView
- * 6 - Implementar UUID para gerar ids únicos
+ * Conteúdo abordado:
+ * 1 - Como criar um novo projeto React Native usando Expo
+ * 2 - Como rodar no nosso celular este projeto
+ * 3 - Como instanciar componentes nativos (View, text, TextInput, Button, FlatList)
+ * 4 - Como usar o useState para manipular estados
+ * 5 - Como usar o FlatList para exibir uma lista de itens
+ * 6 - Como capturar o valor de um Input usando estado e onChangeText
+ * 7 - Como adicionar um novo item na lista usando array de objetos
+ * 8 - Como remover um item da lista usando o filter
+ * 9 - Como usar o uuid para gerar um id único para cada item
+ * 10 - Como usar o Alert para exibir um modal de confirmação
+ * 11 - Como usar o SafeAreaView para evitar que o conteúdo fique por baixo da barra de status
+ * 12 - Como usar Flexbox no React Native
  */
+
 import uuid from 'react-native-uuid';
 
 import { SafeAreaView } from 'react-native-safe-area-context';
